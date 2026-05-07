@@ -1,0 +1,1 @@
+/home/joshua/Desktop/mygit/target/release/mygit: /home/joshua/Desktop/mygit/src/ai.rs /home/joshua/Desktop/mygit/src/config.rs /home/joshua/Desktop/mygit/src/git.rs /home/joshua/Desktop/mygit/src/main.rs
